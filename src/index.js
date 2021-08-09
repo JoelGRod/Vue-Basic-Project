@@ -1,10 +1,2 @@
 
 console.log("Hello World")
-
-
-
-
-
-
-
-
